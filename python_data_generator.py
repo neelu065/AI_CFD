@@ -20,32 +20,12 @@ geometry_filename = 'geometries/cyl1.msh'
 input_data = "X"
 parenthesis = "[]"
 input_size = 19
+Y = []
 
 for i in range(1, input_size + 1):
     command_variable = ""
     command_variable = input_data + str(i) + " = " + parenthesis
     exec(command_variable)
-
-# X1 = []
-# X2 = []
-# X3 = []
-# X4 = []
-# X5 = []
-# X6 = []
-# X7 = []
-# X8 = []
-# X9 = []
-# X10 = []
-# X11 = []
-# X12 = []
-# X13 = []
-# X14 = []
-# X15 = []
-# X16 = []
-# X17 = []
-# X18 = []
-# X19 = []
-Y = []
 
 ita = 0
 totime = 0
