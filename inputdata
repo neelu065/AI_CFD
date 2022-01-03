@@ -1,0 +1,17 @@
+      64, 64,
+      1.6, 1.6,
+      78.5, 
+      520000, 0, 35000,            
+      0., 0.,       
+      1, 0.125, 1.27,
+      -8, -8,
+      0, 1.
+
+      !lx, ly,  
+      !fx, fy,  
+      !itamax, itaSola, pcItaMax, 
+      !re,    
+      !u0, v0,  (1 for BICGS, 0 for Basic Iterative solvers)      
+      !surGeoPoints, a0, freq
+      !xShift, yShift,
+      !istart(0 for start and 1 for checkpoint)
